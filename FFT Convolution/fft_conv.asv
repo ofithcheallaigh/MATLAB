@@ -1,5 +1,0 @@
-a = [1,1,1,0,0,0,1,1,1];        % 9 samples long
-b = [1,0,1,1];                  % 4 samples long
-d = zeros(1,7);                 % Zeros used to build zero padded a sample
-x = [a,d];
-
